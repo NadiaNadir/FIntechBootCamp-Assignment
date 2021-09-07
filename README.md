@@ -1,5 +1,9 @@
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/e/e7/Payoneer_logo.svg)](https://nodesource.com/products/nsolid)
 
+```sh
+O V E R V I E W & O R I G I N 
+```
+
 # PAYONEER 
 **Payoneer** is the world’s go-to partner for digital commerce, everywhere. From borderless payments to boundless growth, Payoneer promises any business, in any market, the technology, connections, and confidence to participate and flourish in the new global economy. Powering growth for customers ranging from aspiring entrepreneurs in emerging markets to the world’s leading digital brands, Payoneer offers a universe of opportunities, open to you.
 
@@ -16,13 +20,21 @@ Making online payments using the right solution to match your business comes wit
 
 **Payoneer** was born on the cusp of a new digital era; now we’re at the heart of it. An era defined by connectivity and openness. Where anyone, anywhere, is empowered to participate and succeed as a global citizen of a single digital economy. Infinite opportunities create exponential complexity. This borderless world of open commerce brings new systems, unfamiliar rules, and untold risks. These unknowns create fear and doubt that erode the confidence fueling the entrepreneurial spirit at the center of everything.
 
-***For 15 years, Payoneer has pioneered this new reality. Serving markets others will not. Solving fintech problems others cannot. Innovating tools others have not. Pushing frontiers, making connections, unifying, and creating global ecosystems.***
+Payoneer is going to become the **NEXT FINTECH GIANT** With 2000 plus employees, 24 Golab offices working with 35 plus languages, and satisfied 5 million-plus customers worldwide.
 
-Payoneer is going to become the **NEXT FINTECH GIANT** With 2000 plus employees, 24 Golab offices working with 35 plus languages, and satisfied 5 million-plus customers worldwide. 
+# PAYONEER HISTORY 
+Payoneer was founded in **2005** with $2 million in seed funding from founder and then-CEO ***Yuval Tal*** and other private investors. 83North (Greylock Israel) led an additional $4 million in funding in 2007, with additional investors including Carmel Ventures, Crossbar Capital, Ping An, Wellington Management, Susquehanna Growth Equity, and Nyca Partners. Since 2005 Payoneer has raised over $265 million from investors.
 
-### REASON I CHOOSE PAYONEER 
-1) Pakistan is no.3 on top freelance markets & it's the freelance market is growing very fast. Living & working here in the Information Technology field is not easy, as we always face issues with the payment transfer from other countries or clients because PayPal is ban here, SO Payoneer solves all our problems from Client/company payments to any money transfer digital using fingertips.
+### Key people
+- Yuval Tal: Founder.
+- Scott Galit: Chief Executive Officer.
+- Keren Levy: Chief Operating Officer.
+- Michael Levine: Chief Financial Officer.
+- Robert Clarkson: Chief Revenue Officer.
 
+```sh
+B U S I N E S S  A C T I V I T I E S  
+```
 
 1) Payoneer supports over 200 countries with 150 local currencies. The financial payment service gives you the ability to directly withdraw funds with a debit card, as well as send and receive funds domestically and internationally, including using local bank transfer.
 
@@ -31,6 +43,13 @@ Payoneer is going to become the **NEXT FINTECH GIANT** With 2000 plus employees,
 3) This means less of a hassle if you need to acquire funds quickly. The card can be used at any ATM in the world but has a maximum daily limit of $2,500. According to the fee structure, they will also charge you an average of 1% of the transaction in foreign exchange fees.
 
 Payoneer has a help desk with a customer support system and a collection of resources to build your knowledge base. The company has offices in multiple countries and is available via email, phone, and live chat.
+
+```sh
+L A N D S C A P E  
+```
+
+PAYONEER is one of the best DIGITAL MONEY TRASFER company. There are many other companies like Skrill, paypal, square etc in the same road. 
+***For 15 years, Payoneer has pioneered this new reality. Serving markets others will not. Solving fintech problems others cannot. Innovating tools others have not. Pushing frontiers, making connections, unifying, and creating global ecosystems.***
 
 ### Who Needs a Payoneer Account and Why
 Firsts things first, you have to figure out whether this very payment method is for you. So who would benefit from having a Payoneer account? Well, these are the following groups of people:
@@ -49,6 +68,13 @@ If the card does not arrive for a long time, you can contact the support service
 
 While getting a card is completely free, you’ll have to pay for its service, which is $ 29.95 per year. However, getting a card is not a must for everybody, so you can use the service without a card. For instance, you can withdraw up to $10,000 per one transaction directly to your local bank card. Moreover, many banks do not take any commission fees for these transactions. So you can avoid paying the cost of card services, and you will only pay a fee for the transfer (if there is any). Though keep in mind that some features are available only for the cardholders.
 
+
+```sh
+R E S U L T S  
+```
+The main business impact of payoneer if on the FREELANCE MARKET. Giants like UpWOrk, FIverr & FREELANCER recomend PAYONEER for money tranfer with fast service & low rates. 
+The main reason i choose PAYONEER for me is it has no border limit for my country, like PayPal is ban here so we are solving our digital money tranfer problems using payonner. 
+
 # Payoneer's Major Competitors
 - PayPal.
 - Square.
@@ -57,16 +83,17 @@ While getting a card is completely free, you’ll have to pay for its service, w
 - Skrill.
 - Remitly.
 
-# PAYONEER HISTORY 
-Payoneer was founded in **2005** with $2 million in seed funding from founder and then-CEO ***Yuval Tal*** and other private investors. 83North (Greylock Israel) led an additional $4 million in funding in 2007, with additional investors including Carmel Ventures, Crossbar Capital, Ping An, Wellington Management, Susquehanna Growth Equity, and Nyca Partners. Since 2005 Payoneer has raised over $265 million from investors.
-### Key people
-- Yuval Tal: Founder.
-- Scott Galit: Chief Executive Officer.
-- Keren Levy: Chief Operating Officer.
-- Michael Levine: Chief Financial Officer.
-- Robert Clarkson: Chief Revenue Officer.
 
-# RECOMENDATIONS 
+```sh
+R E C O M E N D A T I O N S  
+```
+
+# WHY I RECOMEND PAYONEER
+
+Pakistan is no.3 on top freelance markets & it's the freelance market is growing very fast. Living & working here in the Information Technology field is not easy, as we always face issues with the payment transfer from other countries or clients because PayPal is ban here, SO Payoneer solves all our problems from Client/company payments to any money transfer digital using fingertips.
+
+
+# RECOMENDATIONS from COMPANIES 
 
 **99Designs (www.99design.com)**
 > "More than 4,000 designers have chosen to be paid 
